@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="JP" tvg-url="" group-title="",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4yRulEZ.png" tvg-country="JP" tvg-url="" group-title="News",NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="News",NHK World (JP)
+https://b-nhkwlive-ojp.akamaized.net/hls/live/2003459-b/nhkwlive-ojp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/NHK.png" tvg-country="CN" tvg-url="" group-title="",nhk华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/NHK.png" tvg-country="CN" tvg-url="" group-title="",nhk英语新闻
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index.m3u8
